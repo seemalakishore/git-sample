@@ -1,5 +1,6 @@
 *.rb
 *.html
+*.js
 *.rbc
 /.config
 /coverage/
